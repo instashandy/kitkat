@@ -205,10 +205,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTMdk0q.png" group-title="MOVIES",INDO MOVIE CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
-
 
 #EXTINF:-1 group-title="MOVIES", LIFETIME
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
@@ -302,10 +298,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-https://bit.ly/discoman
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rn0wzD.png" group-title="KNOWLEDGE",GLOBAL TREKKER
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
 
@@ -324,13 +316,6 @@ https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mt6pNjj.png" group-title="KNOWLEDGE",NAT GEO
-https://stream1.freetv.fun/c63737a7732017a1a512dc57892ed3bb00a10cb8c668a190f9bc4df004b40ad8.ctv
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mKICSkc.png" group-title="KNOWLEDGE",NAT GEO WILD
-https://stream1.freetv.fun/83d549aab99fcaf9ac97138a2610ebd6df202945a14afa4b32db4785261f2927.ctv
 
 
 
@@ -383,9 +368,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000013/1024.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/554158e864526b29254ff105/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0sfIwIi.png" group-title="ENTERTAINMENT",HGTV
-https://bit.ly/hgtvhgtv
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAQHGUw.png" group-title="ENTERTAINMENT",LIFETIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -412,10 +394,6 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txEG9eg.png" group-title="ENTERTAINMENT",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FY9WSph.png" group-title="ENTERTAINMENT",TLC
-https://bit.ly/tlctlctl
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NsobZI5.png" group-title="ENTERTAINMENT",TRAVELXP
@@ -541,10 +519,6 @@ http://iptv.prosto.tv:7000/ch125/video.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="MUSIC",K-POP TV PLAY
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
-
-
 #EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png" group-title="MUSIC", MIC
 http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 
@@ -569,10 +543,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/635bfb89b5cd9b0007ca9d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4D8EMdN.png" group-title="MUSIC",MTV LIVE
-http://66.90.99.154:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HUiSjLq.png" group-title="MUSIC",MTV REALITY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625eb3e245f5bc0007810046/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -588,12 +558,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee16331
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YfiWoVQ.png" group-title="MUSIC",MTV YO!
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" group-title="MUSIC",MUSICA
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=7619&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=7619&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c35FOzh.png" group-title="MUSIC",MUSIC TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
@@ -621,79 +585,8 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 https://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS",ASTRO GRANDSTAND
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS",ASTRO FOOTBALL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS",ASTRO PREMIER LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://smart.946985.filegear-sg.me/smart.php?id=Assp1
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS",ASTRO PREMIER LEAGUE 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://smart.946985.filegear-sg.me/smart.php?id=Assp2
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beInSports1.id" tvg-name="beIN Sports" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports.jpg?raw=true" group-title="SPORTS",BEIN SPORTS 1
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165886
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="beIN Sports 2" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports2.jpg?raw=true" group-title="SPORTS",BEIN SPORTS 2
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165887
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beINSports3.id" tvg-name="beIN Sports 3" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports3.jpg?raw=true" group-title="SPORTS",BEIN SPORTS 3
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165888
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beINSports4.id" tvg-name="beIN Sports 4" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports4.jpg?raw=true" group-title="SPORTS",BEIN SPORTS 4
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165889
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beINSports5.id" tvg-name="beIN Sports 5" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports5.jpg?raw=true" group-title="SPORTS",BEIN SPORTS 5
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165890
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmswJVo.png" group-title="SPORTS",BEIN SPORTS XTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS",CCTV 16
-http://smart.cityq.xyz:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=20241&tsum=0100e5f18715743c267a04fd5efa2920
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kPB5ml2.png" group-title="SPORTS",FIGHT SPORTS
@@ -727,33 +620,6 @@ https://tv.casindo.org/hls/86/86.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pj6zyon.png" group-title="SPORTS",STRONGMAN CHAMPIONS LEAGUE
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="SPORTS",UNIFI SPORTS
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w500/p2TnX8MwCM6GUjcX0R6s3wDb9En.jpg" group-title="🔴 VOD",A Chinese Odyssey: Part One - Pandora's Box
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/A_Chinese_Odyssey_Part_One__Pandora's_Box_1995_Subs_Malay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w500/4NVQ6rDjPdJ1fayNggtL87nkAuE.jpg" group-title="🔴 VOD",A Chinese Odyssey: Part Two - Cinderella
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/A_Chinese_Odyssey_Part_Two__Cinderella_1995_Subs_Malay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/42df3z4busVoaGDdiV0Eax1NFxs.jpg" group-title="🔴 VOD",A Chinese Odyssey Part Three
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/A%20Chinese%20Odyssey_%20Part%20Three%20(2016)%20Subs%20Malay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk5MzAyZjgtYjExMi00OTlkLTkzMmQtNzAxOGIwMjhmMjU4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg" group-title="🔴 VOD",Believer
-https://storage.dewanonton.online/hls/d976545a-b7da-4a83-8298-b1ea20993fbc.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg" group-title="🔴 VOD",Believer 2
-https://storage.dewanonton.online/hls/8e19d490-27bd-456b-890a-0090592fbd56.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdiYWZiOTQtZmQ4My00YWNiLTllMDEtYWQxODFjNjgzNTNiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SX300.jpg" group-title="🔴 VOD",Bleach
-https://storage.dewanonton.online/hls/30ebae6d-38fc-48af-8e9c-50243154565f.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w500/4uwxfZBJzk7d1xsbRFgG92R7JtW.jpg" group-title="🔴 VOD",Dreadout
-https://worker-kasyah.buntai.workers.dev/0:/movie/Asean/DreadOut.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/60eYZkkksgKeeAV8fAAKQslZZnH.jpg" group-title="🔴 VOD",Kingdom III The Flame of Destiny
-https://worker-kasyah.buntai.workers.dev/0:/movie/Asean/Kingdom_III_Flame_of_Destiny_2023_JAPANESE_1080p_WEB_DL_MalaySub.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwODUyNDM3NV5BMl5BanBnXkFtZTgwNzk0MzA2NTE@._V1_.jpg" group-title="🔴 VOD",Police Story: Lockdown
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Police%20Story%202013.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w500/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg" group-title="🔴 VOD",Baaghi 3
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Baaghi%203.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg" group-title="🔴 VOD",Thanksgiving
-https://worker-kasyah.buntai.workers.dev/0:/movie/English/Thanksgiving.2023.WD1080P.MLaY.@ceritasarikatamelayu.mp4
 
 ----------KOREA-------------------
 
@@ -808,33 +674,9 @@ http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="KOREA",GUGAK TV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/59.jpg" group-title="KOREA",TVN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="KOREA",TVN Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zRZMqUB.png" group-title="KOREA",ONE HD
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/49.jpg" group-title="KOREA",KIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="KOREA",KBS WORLD
 http://125.227.210.55:17478/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/3/36/CJ_E%26M_logo.png" group-title="KOREA",CJ E&M
